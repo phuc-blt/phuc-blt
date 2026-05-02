@@ -19,77 +19,60 @@ My work spans across:
 I prioritize **real-world deployability, system scalability, and business impact** over experimental demos.
 
 
+---
 
-## 💼 Work Experience
-
-### 🏢 AI Engineer — Reputyze Asia (Mar 2025 – Dec 2025)
-- Built internal RAG systems using LangChain + OpenRouter APIs  
-- Reduced RAG latency by 30% through optimized ingestion & ChromaDB pipelines  
-- Designed token-efficient LLM strategies across OpenAI / Gemini  
-- Developed modular FastAPI backend architectures  
-- Built Multi-Agent HRM SaaS recruitment automation  
-- Automated CV crawling, JD matching, ranking, and interview analysis  
-- Delivered explainable AI-based hiring workflows  
+## 🧠 Experience Snapshot
+- 💼 Role: AI Engineer  
+- ⏳ Experience: AI Research + Production Engineering  
+- 🧩 Main stack: Python, LangChain, FastAPI, Qdrant, PyTorch  
+- 🤝 Strong collaboration with product, backend, and research teams  
+- 🌍 Open to AI / LLM / Remote opportunities  
 
 ---
 
-### 🧪 AI Engineer — SIU AI Lab (Mar 2023 – Feb 2025)
-- Managed Linux GPU servers (CUDA, Docker, PyTorch)  
-- Developed medical chatbot systems for cancer support  
-- Researched advanced RAG + Multi-Agent frameworks  
-- Fine-tuned LLMs using LoRA / RLHF  
-- Worked on VLM systems for text-video retrieval  
-- Collaborated on academic AI publications  
+## 🔭 Current & Interests
+- 🔭 Currently building: RAG systems, Multi-Agent platforms, AI SaaS workflows  
+- 🌱 Improving: Graph-RAG, LLM optimization, MLOps  
+- 👯 Interested in collaborating on: Applied AI, Agentic Systems, Computer Vision    
 
 ---
 
 ## 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,cs,js,ts" />
+</p>
 
 ---
 
 ### 📚 Libraries / Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,fastapi,nodejs,nextjs" />
+</p>
+
+<p align="left">
+  🤖 LangChain • 🤗 Transformers • 📈 MLflow
+</p>
 
 ---
 
 ### 🧠 AI Expertise
-- 🤖 Large Language Models (LLMs)  
-- 📝 Prompt Engineering  
-- ⚡ Model Optimization  
-- 🕸️ Multi-Agent Systems  
-- 🔍 Explainable AI  
-- 🧩 Graph-RAG  
-- 🚀 MLOps  
-- 👁️ Computer Vision  
+<p align="left">
+  🤖 LLMs • 📝 Prompt Engineering • ⚡ Model Optimization • 🕸️ Multi-Agent Systems • 🔍 Explainable AI • 🧩 Graph-RAG • 🚀 MLOps • 👁️ Computer Vision
+</p>
 
 ---
 
 ### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge)
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge)
-![Dify](https://img.shields.io/badge/Dify-000000?style=for-the-badge)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,jenkins,aws,gcp" />
+</p>
 
-- 🔧 Openclaw  
-- 🔗 RESTful APIs  
+<p align="left">
+  🔄 Airflow • 🔗 N8N • 🧠 Dify • 🔧 Openclaw • 🌐 RESTful APIs
+</p>
 
 ## 📌 Featured Projects
 
