@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nguyen Trong Phuc</h1>
-<h3 align="center">AI Engineer | RAG Systems | Multi-Agent Architect | Applied LLM Engineering</h3>
-<h4 align="center">LangChain · FastAPI · Qdrant · LLMOps · Computer Vision</h4>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;LLMs+%7C+RAG+%7C+Multi-Agent+Systems;GraphRAG+%7C+AgenticRAG+%7C+BaseRAG;Agentic+Systems+%7C+MLOps+%7C+Computer+Vision;Building+production-grade+AI+systems;Open+to+AI+%2F+LLM+%2F+Remote+Opportunities&center=true&width=950&height=45">
+</p>
+
+<p align="center">
+  <strong>AI Engineer</strong><br/>
+  LLMs · RAG (BaseRAG · AgenticRAG · GraphRAG) · Multi-Agent Systems · MLOps · Computer Vision
+</p>
 
 ---
 
