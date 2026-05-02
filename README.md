@@ -1,16 +1,128 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nguyen Trong Phuc</h1>
+<h3 align="center">AI Engineer | RAG Systems | Multi-Agent Architect | Applied LLM Engineering</h3>
+<h4 align="center">LangChain · FastAPI · Qdrant · LLMOps · Computer Vision</h4>
 
-<!--
-**phuc-blt/phuc-blt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I’m an AI Engineer focused on building production-grade intelligent systems that combine **LLMs, RAG pipelines, Multi-Agent workflows, and scalable backend architectures**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work spans across:
+
+- 🧠 Retrieval-Augmented Generation (RAG) systems  
+- 🤖 Multi-Agent architectures for automation  
+- ⚡ Token-efficient LLM deployment (OpenAI / Gemini / OpenRouter / vLLM)  
+- 🏗️ FastAPI backend systems for scalable AI products  
+- 🎥 Computer Vision & Vision-Language Systems  
+- 🔬 Applied AI research in healthcare, education, and SaaS  
+
+I prioritize **real-world deployability, system scalability, and business impact** over experimental demos.
+
+
+
+## 💼 Work Experience
+
+### 🏢 AI Engineer — Reputyze Asia (Mar 2025 – Dec 2025)
+- Built internal RAG systems using LangChain + OpenRouter APIs  
+- Reduced RAG latency by 30% through optimized ingestion & ChromaDB pipelines  
+- Designed token-efficient LLM strategies across OpenAI / Gemini  
+- Developed modular FastAPI backend architectures  
+- Built Multi-Agent HRM SaaS recruitment automation  
+- Automated CV crawling, JD matching, ranking, and interview analysis  
+- Delivered explainable AI-based hiring workflows  
+
+---
+
+### 🧪 AI Engineer — SIU AI Lab (Mar 2023 – Feb 2025)
+- Managed Linux GPU servers (CUDA, Docker, PyTorch)  
+- Developed medical chatbot systems for cancer support  
+- Researched advanced RAG + Multi-Agent frameworks  
+- Fine-tuned LLMs using LoRA / RLHF  
+- Worked on VLM systems for text-video retrieval  
+- Collaborated on academic AI publications  
+
+---
+
+## 🛠️ Core Technical Stack
+
+### 🤖 AI / LLM Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-5A67D8?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge)
+
+### 🧠 ML / Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+
+### 🌐 Backend / Systems
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+
+---
+
+## 📌 Featured Projects
+
+### 🤝 Multi-Agent HRM for SaaS
+AI-powered recruitment automation platform with:
+- Campaign-based CV crawling  
+- TopCV integration  
+- Multi-Agent candidate extraction  
+- Explainable JD matching  
+- WebSocket real-time pipeline updates  
+
+**Stack:** FastAPI · LangChain · Agentflow · MySQL · Qdrant  
+
+---
+
+### 🎓 SIU Admissions Chatbot
+Offline-capable Agentic RAG system:
+- LangChain + LangGraph  
+- Hybrid Search  
+- Qdrant  
+- vLLM + Quantized Qwen 3.5 9B  
+
+**Goal:** Low-latency, reliable educational admissions AI assistant  
+
+---
+
+### 🎥 Text-Video Retrieval System
+Multimodal retrieval platform:
+- BLIP + Nomic + FAISS  
+- OCR + Speech-to-Text  
+- ImageReward reranking  
+- Full-stack deployment  
+
+**Recognition:** AI Challenge 2024  
+
+---
+
+## 🏆 Awards & Recognition
+- 🥇 First Author — AI Challenge 2025  
+- 🏅 Encouragement Award — AI Challenge 2024  
+- 📚 Springer Publication Author — VizQuest (2025)  
+
+---
+
+## 🌍 Portfolio & Contact
+- 🌐 GitHub: https://github.com/phuc-blt  
+- 📧 Email: nguyenphuc20041113@gmail.com  
+- 💼 Open to AI Engineering / Applied LLM / Remote Opportunities  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phuc-blt&show_icons=true)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=phuc-blt)
+
+---
+
+> “AI engineering is not just about models — it’s about building systems that create measurable impact.”
