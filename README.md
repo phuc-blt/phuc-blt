@@ -7,21 +7,16 @@
 ## 🚀 About Me
 I’m an AI Engineer focused on building production-grade intelligent systems that combine **LLMs, RAG pipelines, Multi-Agent workflows, and scalable backend architectures**.
 
-I care deeply about:
+I work across:
 
-- 🧠 Real-world AI systems that solve business problems  
-- ⚡ Performance, optimization, and cost-efficient deployment  
-- 🏗️ Clean architecture for maintainable AI products  
-- 🚀 Shipping impactful solutions over experimental prototypes  
+- 🧠 Retrieval-Augmented Generation (RAG) systems  
+- 🤖 Multi-Agent architectures for automation  
+- ⚡ Token-efficient LLM deployment (OpenAI / Gemini / OpenRouter / vLLM)  
+- 🏗️ FastAPI backend systems for scalable AI products  
+- 🎥 Computer Vision & Vision-Language Systems  
+- 🔬 Applied AI research in healthcare, education, and SaaS  
 
-My work spans across:
-
-- 🤖 Retrieval-Augmented Generation (RAG)  
-- 🕸️ Multi-Agent Systems  
-- ⚡ LLM Optimization & Deployment  
-- 🏗️ Backend AI Infrastructure  
-- 👁️ Computer Vision & VLMs  
-- 🔬 Applied AI Research  
+I care deeply about **real-world deployability, system scalability, and measurable business impact** over experimental demos.
 
 ---
 
@@ -30,8 +25,7 @@ My work spans across:
 - ⏳ Experience: AI Research + Production Engineering  
 - 🧩 Main stack: Python, LangChain, FastAPI, Qdrant, PyTorch  
 - 🤝 Strong collaboration with product, backend, and research teams  
-- 🌍 Open to AI / LLM / Remote opportunities  
-
+- 🌍 Open to AI / LLM / Remote opportunities
 ---
 
 ## 🔭 Current & Interests
