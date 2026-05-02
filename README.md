@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Trong Phuc</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;4%2B+years+with+RAG+%7C+Chatbots+%7C+Multi-Agent+Systems;Building+scalable+real-world+AI+products;LLMs+%7C+Agentic+Systems+%7C+MLOps;Open+to+AI+%2F+LLM+%2F+Remote+Opportunities&center=true&width=950&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;2.5-3%2B+years+with+RAG+%7C+Chatbots+%7C+Multi-Agent+Systems;Building+scalable+real-world+AI+products;LLMs+%7C+Agentic+Systems+%7C+MLOps;Open+to+AI+%2F+LLM+%2F+Remote+Opportunities&center=true&width=950&height=45">
 </p>
 
 <p align="center">
