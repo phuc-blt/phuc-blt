@@ -43,29 +43,53 @@ I prioritize **real-world deployability, system scalability, and business impact
 
 ---
 
-## 🛠️ Core Technical Stack
+## 🛠️ Technical Skills
 
-### 🤖 AI / LLM Engineering
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-5A67D8?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge)
-
-### 🧠 ML / Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-
-### 🌐 Backend / Systems
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 
 ---
+
+### 📚 Libraries / Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+
+---
+
+### 🧠 AI Expertise
+- 🤖 Large Language Models (LLMs)  
+- 📝 Prompt Engineering  
+- ⚡ Model Optimization  
+- 🕸️ Multi-Agent Systems  
+- 🔍 Explainable AI  
+- 🧩 Graph-RAG  
+- 🚀 MLOps  
+- 👁️ Computer Vision  
+
+---
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge)
+![Dify](https://img.shields.io/badge/Dify-000000?style=for-the-badge)
+
+- 🔧 Openclaw  
+- 🔗 RESTful APIs  
 
 ## 📌 Featured Projects
 
