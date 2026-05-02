@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nguyen Trong Phuc</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;LLMs+%7C+RAG+%7C+Multi-Agent+Systems;GraphRAG+%7C+AgenticRAG+%7C+BaseRAG;Agentic+Systems+%7C+MLOps+%7C+Computer+Vision;Building+production-grade+AI+systems;Open+to+AI+%2F+LLM+%2F+Remote+Opportunities&center=true&width=950&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;4%2B+years+with+RAG+%7C+Chatbots+%7C+Multi-Agent+Systems;Building+scalable+real-world+AI+products;LLMs+%7C+Agentic+Systems+%7C+MLOps;Open+to+AI+%2F+LLM+%2F+Remote+Opportunities&center=true&width=950&height=45">
 </p>
 
 <p align="center">
   <strong>AI Engineer</strong><br/>
-  LLMs · RAG (BaseRAG · AgenticRAG · GraphRAG) · Multi-Agent Systems · MLOps · Computer Vision
+  Chatbot · LLMs · RAG (BaseRAG · AgenticRAG · GraphRAG) · Multi-Agent Systems · MLOps · Computer Vision
 </p>
 
 ---
