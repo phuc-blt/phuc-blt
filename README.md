@@ -73,41 +73,6 @@ I care deeply about **real-world deployability, system scalability, and measurab
 
 ---
 
-## 📌 Featured Projects
-
-### 🤝 Multi-Agent HRM for SaaS
-AI-powered recruitment automation platform featuring:
-- Campaign-based CV crawling  
-- TopCV integration  
-- Multi-Agent candidate extraction  
-- Explainable JD matching  
-- WebSocket real-time pipeline updates  
-
-**Stack:** FastAPI · LangChain · Agentflow · MySQL · Qdrant  
-
----
-
-### 🎓 SIU Admissions Chatbot
-Offline-capable Agentic RAG platform:
-- LangChain + LangGraph  
-- Hybrid Search  
-- Qdrant  
-- vLLM + Quantized Qwen 3.5 9B  
-
-**Goal:** Reliable, low-latency educational admissions AI assistant  
-
----
-
-### 🎥 Text-Video Retrieval System
-Multimodal retrieval platform with:
-- BLIP + Nomic + FAISS  
-- OCR + Speech-to-Text  
-- ImageReward reranking  
-- Full-stack deployment  
-
-**Recognition:** AI Challenge 2024  
-
----
 
 ## 🏆 Awards & Recognition
 - 🥇 First Author — AI Challenge 2025  
