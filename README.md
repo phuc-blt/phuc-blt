@@ -115,8 +115,12 @@ Multimodal retrieval platform:
 - 📚 Springer Publication Author — VizQuest (2025)  
 
 ---
-
-## 🌍 Portfolio & Contact
+## 🌐 Portfolio & Writing
+<p align="left">
+  👨‍💻 Portfolio: <a href="https://nguyentrongphuc.vercel.app/" target="_blank">nguyentrongphuc.vercel.app</a><br>
+  📝 Blog: Coming soon...
+</p>
+📫 Contact
 - 🌐 GitHub: https://github.com/phuc-blt  
 - 📧 Email: nguyenphuc20041113@gmail.com  
 - 💼 Open to AI Engineering / Applied LLM / Remote Opportunities  
@@ -130,5 +134,41 @@ Multimodal retrieval platform:
 ![GitHub Streak](https://streak-stats.demolab.com?user=phuc-blt)
 
 ---
+## 🤝 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+  <a href="https://stackoverflow.com/users/your-stackoverflow" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="50" />
+  </a>
+  <a href="https://leetcode.com/your-leetcode" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="50" />
+  </a>
+  <a href="https://youtube.com/@your-youtube" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuc-blt&layout=compact&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phuc-blt&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=phuc-blt&theme=default" />
+</p>
+
+---
+
+<p align="center">
+  <i>"AI engineering is not about models — it’s about systems."</i>
+</p>
 
 > “AI engineering is not just about models — it’s about building systems that create measurable impact.”
