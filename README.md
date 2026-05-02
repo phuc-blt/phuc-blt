@@ -7,17 +7,21 @@
 ## 🚀 About Me
 I’m an AI Engineer focused on building production-grade intelligent systems that combine **LLMs, RAG pipelines, Multi-Agent workflows, and scalable backend architectures**.
 
+I care deeply about:
+
+- 🧠 Real-world AI systems that solve business problems  
+- ⚡ Performance, optimization, and cost-efficient deployment  
+- 🏗️ Clean architecture for maintainable AI products  
+- 🚀 Shipping impactful solutions over experimental prototypes  
+
 My work spans across:
 
-- 🧠 Retrieval-Augmented Generation (RAG) systems  
-- 🤖 Multi-Agent architectures for automation  
-- ⚡ Token-efficient LLM deployment (OpenAI / Gemini / OpenRouter / vLLM)  
-- 🏗️ FastAPI backend systems for scalable AI products  
-- 🎥 Computer Vision & Vision-Language Systems  
-- 🔬 Applied AI research in healthcare, education, and SaaS  
-
-I prioritize **real-world deployability, system scalability, and business impact** over experimental demos.
-
+- 🤖 Retrieval-Augmented Generation (RAG)  
+- 🕸️ Multi-Agent Systems  
+- ⚡ LLM Optimization & Deployment  
+- 🏗️ Backend AI Infrastructure  
+- 👁️ Computer Vision & VLMs  
+- 🔬 Applied AI Research  
 
 ---
 
@@ -33,7 +37,7 @@ I prioritize **real-world deployability, system scalability, and business impact
 ## 🔭 Current & Interests
 - 🔭 Currently building: RAG systems, Multi-Agent platforms, AI SaaS workflows  
 - 🌱 Improving: Graph-RAG, LLM optimization, MLOps  
-- 👯 Interested in collaborating on: Applied AI, Agentic Systems, Computer Vision    
+- 👯 Interested in collaborating on: Applied AI, Agentic Systems, Computer Vision  
 
 ---
 
@@ -70,13 +74,15 @@ I prioritize **real-world deployability, system scalability, and business impact
 </p>
 
 <p align="left">
-  🔄 Airflow • 🔗 N8N • 🧠 Dify • 🔧 Openclaw • 🌐 RESTful APIs
+  🌪️ Airflow • 🔗 N8N • 🧠 Dify • 🐙 Openclaw • 📈 MLflow • 🌐 RESTful APIs
 </p>
+
+---
 
 ## 📌 Featured Projects
 
 ### 🤝 Multi-Agent HRM for SaaS
-AI-powered recruitment automation platform with:
+AI-powered recruitment automation platform featuring:
 - Campaign-based CV crawling  
 - TopCV integration  
 - Multi-Agent candidate extraction  
@@ -88,18 +94,18 @@ AI-powered recruitment automation platform with:
 ---
 
 ### 🎓 SIU Admissions Chatbot
-Offline-capable Agentic RAG system:
+Offline-capable Agentic RAG platform:
 - LangChain + LangGraph  
 - Hybrid Search  
 - Qdrant  
 - vLLM + Quantized Qwen 3.5 9B  
 
-**Goal:** Low-latency, reliable educational admissions AI assistant  
+**Goal:** Reliable, low-latency educational admissions AI assistant  
 
 ---
 
 ### 🎥 Text-Video Retrieval System
-Multimodal retrieval platform:
+Multimodal retrieval platform with:
 - BLIP + Nomic + FAISS  
 - OCR + Speech-to-Text  
 - ImageReward reranking  
@@ -115,25 +121,22 @@ Multimodal retrieval platform:
 - 📚 Springer Publication Author — VizQuest (2025)  
 
 ---
+
 ## 🌐 Portfolio & Writing
 <p align="left">
   👨‍💻 Portfolio: <a href="https://nguyentrongphuc.vercel.app/" target="_blank">nguyentrongphuc.vercel.app</a><br>
   📝 Blog: Coming soon...
 </p>
-📫 Contact
+
+---
+
+## 📫 Contact
 - 🌐 GitHub: https://github.com/phuc-blt  
 - 📧 Email: nguyenphuc20041113@gmail.com  
 - 💼 Open to AI Engineering / Applied LLM / Remote Opportunities  
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phuc-blt&show_icons=true)
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=phuc-blt)
-
----
 ## 🤝 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
@@ -144,9 +147,6 @@ Multimodal retrieval platform:
   </a>
   <a href="https://leetcode.com/your-leetcode" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="50" />
-  </a>
-  <a href="https://youtube.com/@your-youtube" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50" />
   </a>
 </p>
 
@@ -170,5 +170,3 @@ Multimodal retrieval platform:
 <p align="center">
   <i>"AI engineering is not about models — it’s about systems."</i>
 </p>
-
-> “AI engineering is not just about models — it’s about building systems that create measurable impact.”
