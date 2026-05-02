@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  
+  <strong></strong><br/>
   Chatbot · LLMs · RAG (BaseRAG · AgenticRAG · GraphRAG) · Multi-Agent Systems · MLOps · Computer Vision
 </p>
 
