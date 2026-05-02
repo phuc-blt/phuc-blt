@@ -112,18 +112,19 @@ I care deeply about **real-world deployability, system scalability, and measurab
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuc-blt&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=phuc-blt&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuc-blt&layout=compact&langs_count=8&theme=tokyonight" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phuc-blt&show_icons=true&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=phuc-blt&theme=tokyonight" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=phuc-blt&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phuc-blt&theme=tokyonight" />
 </p>
-
 ---
 
 <p align="center">
