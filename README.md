@@ -38,7 +38,6 @@ I prioritize **real-world deployability, system scalability, and business impact
 ---
 
 ## 🛠️ Technical Skills
-## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
 <p align="left">
